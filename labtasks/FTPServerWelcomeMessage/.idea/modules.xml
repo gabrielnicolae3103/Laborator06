@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/FTPServerWelcomeMessage.iml" filepath="$PROJECT_DIR$/FTPServerWelcomeMessage.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/469433663/FTPServerWelcomeMessage.app.iml" filepath="$PROJECT_DIR$/.idea/modules/469433663/FTPServerWelcomeMessage.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1191969837/labtasks.FTPServerWelcomeMessage.iml" filepath="$PROJECT_DIR$/.idea/modules/1191969837/labtasks.FTPServerWelcomeMessage.iml" />
     </modules>
   </component>
 </project>
